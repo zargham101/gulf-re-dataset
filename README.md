@@ -65,13 +65,23 @@ Nothing extra has to be configured. Vercel detects Next.js.
    - Install command: `npm install`
    - Build command: `npm run build`
    - Output directory: leave blank (Next.js sets this)
-4. Do not add environment variables. Deploy.
+4. Optional for **Vercel cron** (see Monitor below): add `CRON_SECRET` in Vercel → Settings → Environment Variables. Vercel sets this automatically on Pro; on Hobby you can define your own secret and use the same value in the project.
 
-The site is static pages plus one small client filter. Vercel’s free hobby plan can host it. After deploy, every push to the connected branch redeploys.
+The site is mostly static pages plus a weekly cron route. After deploy, every push to the connected branch redeploys.
+
+### Monitor cron (optional)
+
+- **All websites** — `/websites` — country tables with direct links (luxury → budget).
+- **Monitor** — `/monitor` — last automated URL check.
+- **GitHub Actions** — runs every Monday (`monitor-sources.yml`), commits `src/data/monitor-snapshot.json`.
+- **Local / CI** — `npm run monitor:check`
+- **Vercel** — `vercel.json` calls `/api/cron/check-sources` weekly; set `CRON_SECRET`. To commit results from Vercel, also set `GITHUB_TOKEN` (repo `contents: write`) and `GITHUB_REPOSITORY` (`owner/repo`).
 
 ## What is inside
 
 - **Directory** — each site, its countries, the grade of home it covers, the public URL, and the gap users describe.
+- **All websites** — one table per country for quick access to every portal, classifieds site, agency, developer, and official tool.
+- **Monitor** — scheduled checks that a listed homepage still responds and whether the title changed.
 - **What’s missing** — the shared flaws, and a specimen of the plain-language card that would make a listing easier to trust.
 - **Where people talk** — Reddit, Trustpilot, app stores, and expat forums.
 - **How the rules work** — permits, cheques, Ejar, service charges, and ownership limits, written for a newcomer.

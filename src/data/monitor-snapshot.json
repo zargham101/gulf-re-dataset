@@ -1,0 +1,1072 @@
+{
+  "version": 1,
+  "checkedAt": "2026-11-05T10:12:19.789Z",
+  "deskResearchedOn": "3 November 2026",
+  "targetCount": 53,
+  "okCount": 33,
+  "failCount": 20,
+  "entries": [
+    {
+      "url": "https://sothebysrealty.ae/",
+      "slug": "sothebys",
+      "name": "Dubai Sotheby’s International Realty",
+      "country": "UAE",
+      "host": "sothebysrealty.ae",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://sothebysrealty.ae/",
+      "title": "Luxury Real Estate Dubai | Dubai Sotheby’s International Realty",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:49.365Z"
+    },
+    {
+      "url": "https://www.knightfrank.ae/residential/prime-residential",
+      "slug": "knight-frank",
+      "name": "Knight Frank UAE",
+      "country": "UAE",
+      "host": "knightfrank.ae",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.knightfrank.ae/residential/prime-residential",
+      "title": "Buying Property in Dubai - Prime Residential Dubai | Knight Frank UAE",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:49.386Z"
+    },
+    {
+      "url": "https://www.luxhabitat.ae/",
+      "slug": "luxhabitat",
+      "name": "Luxhabitat",
+      "country": "UAE",
+      "host": "luxhabitat.ae",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.luxhabitat.ae/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:11:49.387Z"
+    },
+    {
+      "url": "https://www.allsoppandallsopp.com/",
+      "slug": "allsopp",
+      "name": "Allsopp & Allsopp",
+      "country": "UAE",
+      "host": "allsoppandallsopp.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.allsoppandallsopp.com/",
+      "title": "Allsopp &amp; Allsopp: Award-Winning Dubai Real Estate Agency",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:49.388Z"
+    },
+    {
+      "url": "https://www.bhomes.com/en",
+      "slug": "betterhomes",
+      "name": "Betterhomes",
+      "country": "UAE",
+      "host": "bhomes.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.bhomes.com/en",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:51.246Z"
+    },
+    {
+      "url": "https://www.aldar.com/en",
+      "slug": "aldar",
+      "name": "Aldar",
+      "country": "UAE",
+      "host": "aldar.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.aldar.com/en",
+      "title": "Access Denied",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:11:51.247Z"
+    },
+    {
+      "url": "https://www.emaar.com/en",
+      "slug": "emaar",
+      "name": "Emaar",
+      "country": "UAE",
+      "host": "emaar.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.emaar.com/en",
+      "title": "Leading Real Estate Property Developer in Dubai, UAE",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:51.248Z"
+    },
+    {
+      "url": "https://dubailand.gov.ae/en/",
+      "slug": "dld",
+      "name": "Dubai Land Department",
+      "country": "UAE",
+      "host": "dubailand.gov.ae",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://dubailand.gov.ae/en/",
+      "title": "Dubai Land Department - Home",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:51.249Z"
+    },
+    {
+      "url": "https://www.bayut.com/",
+      "slug": "bayut",
+      "name": "Bayut",
+      "country": "UAE",
+      "host": "bayut.com",
+      "ok": false,
+      "status": 401,
+      "finalUrl": "https://www.bayut.com/",
+      "title": null,
+      "error": "HTTP 401",
+      "checkedAt": "2026-11-05T10:11:51.740Z"
+    },
+    {
+      "url": "https://www.propertyfinder.ae/",
+      "slug": "property-finder",
+      "name": "Property Finder",
+      "country": "UAE",
+      "host": "propertyfinder.ae",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.propertyfinder.ae/",
+      "title": "Property Finder | Buy and Rent Real Estate in UAE",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:51.742Z"
+    },
+    {
+      "url": "https://www.dubizzle.com/",
+      "slug": "dubizzle",
+      "name": "dubizzle",
+      "country": "UAE",
+      "host": "dubizzle.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.dubizzle.com/",
+      "title": "Pardon Our Interruption",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:51.742Z"
+    },
+    {
+      "url": "https://www.expatriates.com/",
+      "slug": "expatriates",
+      "name": "Expatriates.com",
+      "country": "UAE",
+      "host": "expatriates.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.expatriates.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:11:51.743Z"
+    },
+    {
+      "url": "https://rega.gov.sa/en",
+      "slug": "rega",
+      "name": "REGA",
+      "country": "Saudi Arabia",
+      "host": "rega.gov.sa",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://rega.gov.sa/en",
+      "title": "The official website of Real Estate General Authority",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:52.269Z"
+    },
+    {
+      "url": "https://sa.aqar.fm/en",
+      "slug": "aqar",
+      "name": "Aqar",
+      "country": "Saudi Arabia",
+      "host": "sa.aqar.fm",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://sa.aqar.fm/en",
+      "title": "You have been blocked | تم حظرك",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:11:52.270Z"
+    },
+    {
+      "url": "https://www.bayut.sa/",
+      "slug": "bayut",
+      "name": "Bayut",
+      "country": "Saudi Arabia",
+      "host": "bayut.sa",
+      "ok": false,
+      "status": 401,
+      "finalUrl": "https://www.bayut.sa/",
+      "title": null,
+      "error": "HTTP 401",
+      "checkedAt": "2026-11-05T10:11:52.271Z"
+    },
+    {
+      "url": "https://www.propertyfinder.sa/",
+      "slug": "property-finder",
+      "name": "Property Finder",
+      "country": "Saudi Arabia",
+      "host": "propertyfinder.sa",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.propertyfinder.sa/",
+      "title": "بروبرتي فايندر السعودية : شراء ، وإيجار عقارات في جميع أنحاء المملكة | Property Finder SA",
+      "error": null,
+      "checkedAt": "2026-11-05T10:11:52.271Z"
+    },
+    {
+      "url": "https://sakan.co/",
+      "slug": "sakan",
+      "name": "Sakan",
+      "country": "Saudi Arabia",
+      "host": "sakan.co",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://sakan.co/ar/",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:08.225Z"
+    },
+    {
+      "url": "https://wasalt.sa/",
+      "slug": "wasalt",
+      "name": "Wasalt",
+      "country": "Saudi Arabia",
+      "host": "wasalt.sa",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://wasalt.sa/",
+      "title": "موقع وصلت | عقارات للبيع و للايجار في السعودية",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:08.226Z"
+    },
+    {
+      "url": "https://www.roshn.sa/",
+      "slug": "roshn",
+      "name": "ROSHN",
+      "country": "Saudi Arabia",
+      "host": "roshn.sa",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.roshn.sa/",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:08.226Z"
+    },
+    {
+      "url": "https://www.ejar.sa/",
+      "slug": "ejar",
+      "name": "Ejar",
+      "country": "Saudi Arabia",
+      "host": "ejar.sa",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.ejar.sa/",
+      "title": "Attention Required! | Cloudflare",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:08.227Z"
+    },
+    {
+      "url": "https://www.expatriates.com/",
+      "slug": "expatriates",
+      "name": "Expatriates.com",
+      "country": "Saudi Arabia",
+      "host": "expatriates.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.expatriates.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:09.632Z"
+    },
+    {
+      "url": "https://haraj.com.sa/",
+      "slug": "haraj",
+      "name": "Haraj",
+      "country": "Saudi Arabia",
+      "host": "haraj.com.sa",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://haraj.com.sa/",
+      "title": "موقع حراج",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:09.632Z"
+    },
+    {
+      "url": "https://sa.opensooq.com/",
+      "slug": "opensooq",
+      "name": "OpenSooq",
+      "country": "Saudi Arabia",
+      "host": "sa.opensooq.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://sa.opensooq.com/ar",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:09.633Z"
+    },
+    {
+      "url": "https://sakani.sa/",
+      "slug": "sakani",
+      "name": "Sakani",
+      "country": "Saudi Arabia",
+      "host": "sakani.sa",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://sakani.sa/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:09.633Z"
+    },
+    {
+      "url": "https://www.bunyan.com.qa/",
+      "slug": "bunyan",
+      "name": "Bunyan",
+      "country": "Qatar",
+      "host": "bunyan.com.qa",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.bunyan.com.qa/",
+      "title": "Bot Verification",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:11.121Z"
+    },
+    {
+      "url": "https://www.propertyfinder.qa/",
+      "slug": "property-finder",
+      "name": "Property Finder",
+      "country": "Qatar",
+      "host": "propertyfinder.qa",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.propertyfinder.qa/",
+      "title": "Property Finder QA | Buy and Rent Real Estate in Qatar",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:11.122Z"
+    },
+    {
+      "url": "https://www.saakin.qa/",
+      "slug": "saakin",
+      "name": "Saakin",
+      "country": "Qatar",
+      "host": "saakin.qa",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.saakin.qa/",
+      "title": "ERROR: The request could not be satisfied",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:11.122Z"
+    },
+    {
+      "url": "https://www.expatriates.com/",
+      "slug": "expatriates",
+      "name": "Expatriates.com",
+      "country": "Qatar",
+      "host": "expatriates.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.expatriates.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:11.123Z"
+    },
+    {
+      "url": "https://mzadqatar.com/",
+      "slug": "mzad-qatar",
+      "name": "Mzad Qatar",
+      "country": "Qatar",
+      "host": "mzadqatar.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://mzadqatar.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:12.156Z"
+    },
+    {
+      "url": "https://qa.opensooq.com/",
+      "slug": "opensooq",
+      "name": "OpenSooq",
+      "country": "Qatar",
+      "host": "qa.opensooq.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://qa.opensooq.com/ar",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:12.156Z"
+    },
+    {
+      "url": "https://www.qatarliving.com/",
+      "slug": "qatar-living",
+      "name": "Qatar Living",
+      "country": "Qatar",
+      "host": "qatarliving.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.qatarliving.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:12.157Z"
+    },
+    {
+      "url": "https://www.bayut.com.kw/",
+      "slug": "bayut",
+      "name": "Bayut",
+      "country": "Kuwait",
+      "host": "bayut.com.kw",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.bayut.com.kw/",
+      "title": "ابحث عن عقارات للبيع و للايجار في الكويت | بيوت الكويت",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:12.157Z"
+    },
+    {
+      "url": "https://dallal.com.kw/",
+      "slug": "dallal",
+      "name": "Dallal",
+      "country": "Kuwait",
+      "host": "dallal.com.kw",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://dallal.com.kw/",
+      "title": "Dallal — Real Estate in Kuwait | Buy, Sell &amp; Rent Property",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:13.094Z"
+    },
+    {
+      "url": "https://sakan.co/",
+      "slug": "sakan",
+      "name": "Sakan",
+      "country": "Kuwait",
+      "host": "sakan.co",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://sakan.co/ar/",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:13.094Z"
+    },
+    {
+      "url": "https://www.q84sale.com/en/property",
+      "slug": "4sale",
+      "name": "4Sale",
+      "country": "Kuwait",
+      "host": "q84sale.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.q84sale.com/en/property",
+      "title": "ERROR: The request could not be satisfied",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:13.095Z"
+    },
+    {
+      "url": "https://www.dubizzle.com.kw/",
+      "slug": "dubizzle",
+      "name": "dubizzle",
+      "country": "Kuwait",
+      "host": "dubizzle.com.kw",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.dubizzle.com.kw/",
+      "title": "Attention Required! | Cloudflare",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:13.095Z"
+    },
+    {
+      "url": "https://www.expatriates.com/",
+      "slug": "expatriates",
+      "name": "Expatriates.com",
+      "country": "Kuwait",
+      "host": "expatriates.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.expatriates.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:13.860Z"
+    },
+    {
+      "url": "https://kw.opensooq.com/en/real-estate",
+      "slug": "opensooq",
+      "name": "OpenSooq",
+      "country": "Kuwait",
+      "host": "kw.opensooq.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://kw.opensooq.com/en/real-estate",
+      "title": "Real Estate in Kuwait : Apartments : Villa : Shops and Projects : Best Prices | OpenSooq",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:13.861Z"
+    },
+    {
+      "url": "https://www.bayut.bh/en/",
+      "slug": "bayut",
+      "name": "Bayut",
+      "country": "Bahrain",
+      "host": "bayut.bh",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.bayut.bh/en/",
+      "title": "Properties for Sale and to Rent in Bahrain | Bayut Bahrain",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:13.862Z"
+    },
+    {
+      "url": "https://findbahrain.com/",
+      "slug": "find-bahrain",
+      "name": "Find Bahrain",
+      "country": "Bahrain",
+      "host": "findbahrain.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://findbahrain.com/",
+      "title": "FIND BAHRAIN | Find Your Dream Property in Bahrain",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:13.863Z"
+    },
+    {
+      "url": "https://homesbahrain.com/",
+      "slug": "homes-bahrain",
+      "name": "Homes Bahrain",
+      "country": "Bahrain",
+      "host": "homesbahrain.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://homesbahrain.com/",
+      "title": "Properties for Rent &amp; Sale in Bahrain | Homes Bahrain",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:14.479Z"
+    },
+    {
+      "url": "https://www.propertyfinder.bh/",
+      "slug": "property-finder",
+      "name": "Property Finder",
+      "country": "Bahrain",
+      "host": "propertyfinder.bh",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.propertyfinder.bh/",
+      "title": "Property Finder BH | Buy and Rent Real Estate in Bahrain",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:14.480Z"
+    },
+    {
+      "url": "https://www.weetas.com/",
+      "slug": "weetas",
+      "name": "Weetas",
+      "country": "Bahrain",
+      "host": "weetas.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.weetas.com/",
+      "title": "Weetas - #1 Real Estate Company in Bahrain",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:14.481Z"
+    },
+    {
+      "url": "https://www.dubizzle.com.bh/en/",
+      "slug": "dubizzle",
+      "name": "dubizzle",
+      "country": "Bahrain",
+      "host": "dubizzle.com.bh",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.dubizzle.com.bh/en/",
+      "title": "Attention Required! | Cloudflare",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:14.481Z"
+    },
+    {
+      "url": "https://www.expatriates.com/",
+      "slug": "expatriates",
+      "name": "Expatriates.com",
+      "country": "Bahrain",
+      "host": "expatriates.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.expatriates.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:16.641Z"
+    },
+    {
+      "url": "https://bh.opensooq.com/",
+      "slug": "opensooq",
+      "name": "OpenSooq",
+      "country": "Bahrain",
+      "host": "bh.opensooq.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://bh.opensooq.com/ar",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:16.642Z"
+    },
+    {
+      "url": "https://www.savills.om/",
+      "slug": "savills-oman",
+      "name": "Savills Oman",
+      "country": "Oman",
+      "host": "savills.om",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.savills.om/",
+      "title": "Savills Oman | Commercial & Residential Property & Real Estate",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:16.643Z"
+    },
+    {
+      "url": "https://www.bayut.om/en/",
+      "slug": "bayut",
+      "name": "Bayut",
+      "country": "Oman",
+      "host": "bayut.om",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.bayut.om/en/",
+      "title": "Properties for Sale and to Rent in Oman | Bayut.om",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:16.643Z"
+    },
+    {
+      "url": "https://www.mawa.om/en",
+      "slug": "mawa",
+      "name": "Mawa",
+      "country": "Oman",
+      "host": "mawa.om",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://www.mawa.om/en",
+      "title": "Leading Real Estate Platform In Oman | Real Estate | Mawa",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:17.576Z"
+    },
+    {
+      "url": "https://omanreal.com/",
+      "slug": "oman-real",
+      "name": "Oman Real",
+      "country": "Oman",
+      "host": "omanreal.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://omanreal.com/",
+      "title": "Home - Oman Real",
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:17.576Z"
+    },
+    {
+      "url": "https://www.dubizzle.com.om/en/",
+      "slug": "dubizzle",
+      "name": "dubizzle",
+      "country": "Oman",
+      "host": "dubizzle.com.om",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.dubizzle.com.om/en/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:17.577Z"
+    },
+    {
+      "url": "https://www.expatriates.com/",
+      "slug": "expatriates",
+      "name": "Expatriates.com",
+      "country": "Oman",
+      "host": "expatriates.com",
+      "ok": false,
+      "status": 403,
+      "finalUrl": "https://www.expatriates.com/",
+      "title": "Just a moment...",
+      "error": "HTTP 403",
+      "checkedAt": "2026-11-05T10:12:17.577Z"
+    },
+    {
+      "url": "https://om.opensooq.com/",
+      "slug": "opensooq",
+      "name": "OpenSooq",
+      "country": "Oman",
+      "host": "om.opensooq.com",
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://om.opensooq.com/ar",
+      "title": null,
+      "error": null,
+      "checkedAt": "2026-11-05T10:12:18.110Z"
+    }
+  ],
+  "changesSinceLastRun": [
+    {
+      "type": "url",
+      "url": "https://sothebysrealty.ae/",
+      "name": "Dubai Sotheby’s International Realty",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.knightfrank.ae/residential/prime-residential",
+      "name": "Knight Frank UAE",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.luxhabitat.ae/",
+      "name": "Luxhabitat",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.allsoppandallsopp.com/",
+      "name": "Allsopp & Allsopp",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.bhomes.com/en",
+      "name": "Betterhomes",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.aldar.com/en",
+      "name": "Aldar",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.emaar.com/en",
+      "name": "Emaar",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://dubailand.gov.ae/en/",
+      "name": "Dubai Land Department",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.bayut.com/",
+      "name": "Bayut",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.propertyfinder.ae/",
+      "name": "Property Finder",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.dubizzle.com/",
+      "name": "dubizzle",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.expatriates.com/",
+      "name": "Expatriates.com",
+      "country": "UAE",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://rega.gov.sa/en",
+      "name": "REGA",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://sa.aqar.fm/en",
+      "name": "Aqar",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.bayut.sa/",
+      "name": "Bayut",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.propertyfinder.sa/",
+      "name": "Property Finder",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://sakan.co/",
+      "name": "Sakan",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://wasalt.sa/",
+      "name": "Wasalt",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.roshn.sa/",
+      "name": "ROSHN",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.ejar.sa/",
+      "name": "Ejar",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.expatriates.com/",
+      "name": "Expatriates.com",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://haraj.com.sa/",
+      "name": "Haraj",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://sa.opensooq.com/",
+      "name": "OpenSooq",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://sakani.sa/",
+      "name": "Sakani",
+      "country": "Saudi Arabia",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.bunyan.com.qa/",
+      "name": "Bunyan",
+      "country": "Qatar",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.propertyfinder.qa/",
+      "name": "Property Finder",
+      "country": "Qatar",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.saakin.qa/",
+      "name": "Saakin",
+      "country": "Qatar",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.expatriates.com/",
+      "name": "Expatriates.com",
+      "country": "Qatar",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://mzadqatar.com/",
+      "name": "Mzad Qatar",
+      "country": "Qatar",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://qa.opensooq.com/",
+      "name": "OpenSooq",
+      "country": "Qatar",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.qatarliving.com/",
+      "name": "Qatar Living",
+      "country": "Qatar",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.bayut.com.kw/",
+      "name": "Bayut",
+      "country": "Kuwait",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://dallal.com.kw/",
+      "name": "Dallal",
+      "country": "Kuwait",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://sakan.co/",
+      "name": "Sakan",
+      "country": "Kuwait",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.q84sale.com/en/property",
+      "name": "4Sale",
+      "country": "Kuwait",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.dubizzle.com.kw/",
+      "name": "dubizzle",
+      "country": "Kuwait",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.expatriates.com/",
+      "name": "Expatriates.com",
+      "country": "Kuwait",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://kw.opensooq.com/en/real-estate",
+      "name": "OpenSooq",
+      "country": "Kuwait",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.bayut.bh/en/",
+      "name": "Bayut",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://findbahrain.com/",
+      "name": "Find Bahrain",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://homesbahrain.com/",
+      "name": "Homes Bahrain",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.propertyfinder.bh/",
+      "name": "Property Finder",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.weetas.com/",
+      "name": "Weetas",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.dubizzle.com.bh/en/",
+      "name": "dubizzle",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.expatriates.com/",
+      "name": "Expatriates.com",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://bh.opensooq.com/",
+      "name": "OpenSooq",
+      "country": "Bahrain",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.savills.om/",
+      "name": "Savills Oman",
+      "country": "Oman",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.bayut.om/en/",
+      "name": "Bayut",
+      "country": "Oman",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.mawa.om/en",
+      "name": "Mawa",
+      "country": "Oman",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://omanreal.com/",
+      "name": "Oman Real",
+      "country": "Oman",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.dubizzle.com.om/en/",
+      "name": "dubizzle",
+      "country": "Oman",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://www.expatriates.com/",
+      "name": "Expatriates.com",
+      "country": "Oman",
+      "message": "New target added to the desk."
+    },
+    {
+      "type": "url",
+      "url": "https://om.opensooq.com/",
+      "name": "OpenSooq",
+      "country": "Oman",
+      "message": "New target added to the desk."
+    }
+  ]
+}

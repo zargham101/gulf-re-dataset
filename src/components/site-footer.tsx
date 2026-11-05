@@ -16,6 +16,12 @@ export function SiteFooter() {
           as claims when they come from the company itself.
         </p>
         <div className="flex flex-wrap gap-x-4 gap-y-1">
+          <Link className="underline-offset-4 hover:underline" href="/websites">
+            All websites by country
+          </Link>
+          <Link className="underline-offset-4 hover:underline" href="/monitor">
+            Link monitor
+          </Link>
           <Link className="underline-offset-4 hover:underline" href="/gaps">
             The missing card
           </Link>

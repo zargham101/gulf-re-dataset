@@ -6,6 +6,8 @@ import { cn } from "cn";
 
 const links = [
   { href: "/", label: "Directory" },
+  { href: "/websites", label: "All websites" },
+  { href: "/monitor", label: "Monitor" },
   { href: "/gaps", label: "What's missing" },
   { href: "/forums", label: "Where people talk" },
   { href: "/system", label: "How the rules work" },
