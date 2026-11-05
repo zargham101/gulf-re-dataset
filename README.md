@@ -25,12 +25,41 @@ npm start
 
 `npm start` serves the production build on port 3000.
 
+## Put it on your GitHub (private)
+
+This cloud session cannot create a GitHub repository for you (no GitHub login here). Two minutes on your side:
+
+1. On [github.com/new](https://github.com/new), create a **private** repository named `gulf-property-desk`. Do **not** add a README, `.gitignore`, or license (this project already has them).
+2. On your computer, get the code either way:
+   - **Clone from this agent’s git remote** (if Cursor linked a repo for you), or
+   - **Download** the zip from this chat’s artifacts: `gulf-property-desk-source.zip`, unzip it, then `cd` into the folder.
+3. Point Git at your new GitHub repo and push:
+
+```bash
+cd gulf-property-desk
+git init
+git add .
+git commit -m "Initial commit: Gulf Property Desk"
+git branch -M main
+git remote add origin https://github.com/YOUR_USERNAME/gulf-property-desk.git
+git push -u origin main
+```
+
+If you already have a git history from Cursor, skip `git init` / the first commit and only run:
+
+```bash
+git remote add github https://github.com/YOUR_USERNAME/gulf-property-desk.git
+git push -u github main
+```
+
+Replace `YOUR_USERNAME` with your GitHub username.
+
 ## Deploy on Vercel
 
 Nothing extra has to be configured. Vercel detects Next.js.
 
-1. Put this folder in a Git repository you own. In this chat, use **Create repo** if the project is not in your GitHub yet.
-2. On [vercel.com/new](https://vercel.com/new), import that repository. Or use **Publish** in this chat.
+1. Import the **private GitHub repository** you just created.
+2. On [vercel.com/new](https://vercel.com/new), choose that repo.
 3. Leave the defaults:
    - Framework preset: **Next.js**
    - Install command: `npm install`
