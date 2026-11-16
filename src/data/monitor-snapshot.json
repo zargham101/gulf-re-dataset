@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "checkedAt": "2026-11-09T15:55:45.647Z",
+  "checkedAt": "2026-11-16T15:31:27.174Z",
   "deskResearchedOn": "3 November 2026",
   "targetCount": 53,
   "okCount": 32,
@@ -17,7 +17,7 @@
       "finalUrl": "https://sothebysrealty.ae/",
       "title": "Luxury Real Estate Dubai | Dubai Sotheby’s International Realty",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:28.091Z"
+      "checkedAt": "2026-11-16T15:30:50.826Z"
     },
     {
       "url": "https://www.knightfrank.ae/residential/prime-residential",
@@ -30,7 +30,7 @@
       "finalUrl": "https://www.knightfrank.ae/residential/prime-residential",
       "title": "Buying Property in Dubai - Prime Residential Dubai | Knight Frank UAE",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:28.116Z"
+      "checkedAt": "2026-11-16T15:30:50.855Z"
     },
     {
       "url": "https://www.luxhabitat.ae/",
@@ -43,7 +43,7 @@
       "finalUrl": "https://www.luxhabitat.ae/",
       "title": "Just a moment...",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:28.118Z"
+      "checkedAt": "2026-11-16T15:30:50.856Z"
     },
     {
       "url": "https://www.allsoppandallsopp.com/",
@@ -56,7 +56,7 @@
       "finalUrl": "https://www.allsoppandallsopp.com/",
       "title": "Allsopp &amp; Allsopp: Award-Winning Dubai Real Estate Agency",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:28.119Z"
+      "checkedAt": "2026-11-16T15:30:50.857Z"
     },
     {
       "url": "https://www.bhomes.com/en",
@@ -64,12 +64,12 @@
       "name": "Betterhomes",
       "country": "UAE",
       "host": "bhomes.com",
-      "ok": true,
-      "status": 200,
+      "ok": false,
+      "status": 429,
       "finalUrl": "https://www.bhomes.com/en",
-      "title": null,
-      "error": null,
-      "checkedAt": "2026-11-09T15:55:30.334Z"
+      "title": "Vercel Security Checkpoint",
+      "error": "HTTP 429",
+      "checkedAt": "2026-11-16T15:30:53.659Z"
     },
     {
       "url": "https://www.aldar.com/en",
@@ -82,7 +82,7 @@
       "finalUrl": "https://www.aldar.com/en",
       "title": "Aldar - Explore Our Real Estate Properties in Abu Dhabi",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:30.336Z"
+      "checkedAt": "2026-11-16T15:30:53.661Z"
     },
     {
       "url": "https://www.emaar.com/en",
@@ -95,7 +95,7 @@
       "finalUrl": "https://www.emaar.com/en",
       "title": "Leading Real Estate Property Developer in Dubai, UAE",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:30.337Z"
+      "checkedAt": "2026-11-16T15:30:53.662Z"
     },
     {
       "url": "https://dubailand.gov.ae/en/",
@@ -108,7 +108,7 @@
       "finalUrl": "https://dubailand.gov.ae/en/",
       "title": "Dubai Land Department - Home",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:30.337Z"
+      "checkedAt": "2026-11-16T15:30:53.663Z"
     },
     {
       "url": "https://www.bayut.com/",
@@ -121,7 +121,7 @@
       "finalUrl": "https://www.bayut.com/",
       "title": null,
       "error": "HTTP 401",
-      "checkedAt": "2026-11-09T15:55:31.097Z"
+      "checkedAt": "2026-11-16T15:30:55.411Z"
     },
     {
       "url": "https://www.propertyfinder.ae/",
@@ -134,7 +134,7 @@
       "finalUrl": "https://www.propertyfinder.ae/",
       "title": "Property Finder | Buy and Rent Real Estate in UAE",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:31.099Z"
+      "checkedAt": "2026-11-16T15:30:55.413Z"
     },
     {
       "url": "https://www.dubizzle.com/",
@@ -147,7 +147,7 @@
       "finalUrl": "https://www.dubizzle.com/",
       "title": "Pardon Our Interruption",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:31.100Z"
+      "checkedAt": "2026-11-16T15:30:55.414Z"
     },
     {
       "url": "https://www.expatriates.com/",
@@ -160,7 +160,7 @@
       "finalUrl": "https://www.expatriates.com/",
       "title": "Attention Required! | Cloudflare",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:31.100Z"
+      "checkedAt": "2026-11-16T15:30:55.415Z"
     },
     {
       "url": "https://rega.gov.sa/en",
@@ -168,12 +168,12 @@
       "name": "REGA",
       "country": "Saudi Arabia",
       "host": "rega.gov.sa",
-      "ok": false,
-      "status": null,
-      "finalUrl": null,
-      "title": null,
-      "error": "fetch failed",
-      "checkedAt": "2026-11-09T15:55:31.850Z"
+      "ok": true,
+      "status": 200,
+      "finalUrl": "https://rega.gov.sa/en",
+      "title": "The official website of Real Estate General Authority",
+      "error": null,
+      "checkedAt": "2026-11-16T15:30:56.165Z"
     },
     {
       "url": "https://sa.aqar.fm/en",
@@ -186,7 +186,7 @@
       "finalUrl": "https://sa.aqar.fm/en",
       "title": "You have been blocked | تم حظرك",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:31.850Z"
+      "checkedAt": "2026-11-16T15:30:56.166Z"
     },
     {
       "url": "https://www.bayut.sa/",
@@ -199,7 +199,7 @@
       "finalUrl": "https://www.bayut.sa/",
       "title": null,
       "error": "HTTP 401",
-      "checkedAt": "2026-11-09T15:55:31.851Z"
+      "checkedAt": "2026-11-16T15:30:56.167Z"
     },
     {
       "url": "https://www.propertyfinder.sa/",
@@ -212,7 +212,7 @@
       "finalUrl": "https://www.propertyfinder.sa/",
       "title": "بروبرتي فايندر السعودية : شراء ، وإيجار عقارات في جميع أنحاء المملكة | Property Finder SA",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:31.851Z"
+      "checkedAt": "2026-11-16T15:30:56.168Z"
     },
     {
       "url": "https://sakan.co/",
@@ -225,7 +225,7 @@
       "finalUrl": "https://sakan.co/ar/",
       "title": null,
       "error": null,
-      "checkedAt": "2026-11-09T15:55:33.651Z"
+      "checkedAt": "2026-11-16T15:31:09.794Z"
     },
     {
       "url": "https://wasalt.sa/",
@@ -238,7 +238,7 @@
       "finalUrl": "https://wasalt.sa/",
       "title": "Just a moment...",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:33.651Z"
+      "checkedAt": "2026-11-16T15:31:09.795Z"
     },
     {
       "url": "https://www.roshn.sa/",
@@ -251,7 +251,7 @@
       "finalUrl": "https://www.roshn.sa/",
       "title": null,
       "error": null,
-      "checkedAt": "2026-11-09T15:55:33.652Z"
+      "checkedAt": "2026-11-16T15:31:09.796Z"
     },
     {
       "url": "https://www.ejar.sa/",
@@ -264,7 +264,7 @@
       "finalUrl": "https://www.ejar.sa/",
       "title": "Attention Required! | Cloudflare",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:33.652Z"
+      "checkedAt": "2026-11-16T15:31:09.797Z"
     },
     {
       "url": "https://www.expatriates.com/",
@@ -275,9 +275,9 @@
       "ok": false,
       "status": 403,
       "finalUrl": "https://www.expatriates.com/",
-      "title": "Just a moment...",
+      "title": "Attention Required! | Cloudflare",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:35.608Z"
+      "checkedAt": "2026-11-16T15:31:11.602Z"
     },
     {
       "url": "https://haraj.com.sa/",
@@ -290,7 +290,7 @@
       "finalUrl": "https://haraj.com.sa/",
       "title": "موقع حراج",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:35.609Z"
+      "checkedAt": "2026-11-16T15:31:11.603Z"
     },
     {
       "url": "https://sa.opensooq.com/",
@@ -303,7 +303,7 @@
       "finalUrl": "https://sa.opensooq.com/ar",
       "title": null,
       "error": null,
-      "checkedAt": "2026-11-09T15:55:35.610Z"
+      "checkedAt": "2026-11-16T15:31:11.604Z"
     },
     {
       "url": "https://sakani.sa/",
@@ -316,7 +316,7 @@
       "finalUrl": "https://sakani.sa/",
       "title": "Just a moment...",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:35.610Z"
+      "checkedAt": "2026-11-16T15:31:11.605Z"
     },
     {
       "url": "https://www.bunyan.com.qa/",
@@ -329,7 +329,7 @@
       "finalUrl": "https://www.bunyan.com.qa/",
       "title": "Bot Verification",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:37.033Z"
+      "checkedAt": "2026-11-16T15:31:13.155Z"
     },
     {
       "url": "https://www.propertyfinder.qa/",
@@ -342,7 +342,7 @@
       "finalUrl": "https://www.propertyfinder.qa/",
       "title": "Property Finder QA | Buy and Rent Real Estate in Qatar",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:37.034Z"
+      "checkedAt": "2026-11-16T15:31:13.157Z"
     },
     {
       "url": "https://www.saakin.qa/",
@@ -355,7 +355,7 @@
       "finalUrl": "https://www.saakin.qa/",
       "title": "ERROR: The request could not be satisfied",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:37.034Z"
+      "checkedAt": "2026-11-16T15:31:13.157Z"
     },
     {
       "url": "https://www.expatriates.com/",
@@ -366,9 +366,9 @@
       "ok": false,
       "status": 403,
       "finalUrl": "https://www.expatriates.com/",
-      "title": "Just a moment...",
+      "title": "Attention Required! | Cloudflare",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:37.035Z"
+      "checkedAt": "2026-11-16T15:31:13.158Z"
     },
     {
       "url": "https://mzadqatar.com/",
@@ -381,7 +381,7 @@
       "finalUrl": "https://mzadqatar.com/",
       "title": null,
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:38.139Z"
+      "checkedAt": "2026-11-16T15:31:14.985Z"
     },
     {
       "url": "https://qa.opensooq.com/",
@@ -394,7 +394,7 @@
       "finalUrl": "https://qa.opensooq.com/ar",
       "title": null,
       "error": null,
-      "checkedAt": "2026-11-09T15:55:38.139Z"
+      "checkedAt": "2026-11-16T15:31:14.986Z"
     },
     {
       "url": "https://www.qatarliving.com/",
@@ -407,7 +407,7 @@
       "finalUrl": "https://www.qatarliving.com/en",
       "title": "Qatar Living | Property, Cars, Jobs, Classifieds &amp; News",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:38.140Z"
+      "checkedAt": "2026-11-16T15:31:14.986Z"
     },
     {
       "url": "https://www.bayut.com.kw/",
@@ -420,7 +420,7 @@
       "finalUrl": "https://www.bayut.com.kw/",
       "title": "ابحث عن عقارات للبيع و للايجار في الكويت | بيوت الكويت",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:38.140Z"
+      "checkedAt": "2026-11-16T15:31:14.987Z"
     },
     {
       "url": "https://dallal.com.kw/",
@@ -433,7 +433,7 @@
       "finalUrl": "https://dallal.com.kw/",
       "title": "Dallal — Real Estate in Kuwait | Buy, Sell &amp; Rent Property",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:40.558Z"
+      "checkedAt": "2026-11-16T15:31:16.496Z"
     },
     {
       "url": "https://sakan.co/",
@@ -446,7 +446,7 @@
       "finalUrl": "https://sakan.co/ar/",
       "title": null,
       "error": null,
-      "checkedAt": "2026-11-09T15:55:40.559Z"
+      "checkedAt": "2026-11-16T15:31:16.497Z"
     },
     {
       "url": "https://www.q84sale.com/en/property",
@@ -459,7 +459,7 @@
       "finalUrl": "https://www.q84sale.com/en/property",
       "title": "ERROR: The request could not be satisfied",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:40.560Z"
+      "checkedAt": "2026-11-16T15:31:16.498Z"
     },
     {
       "url": "https://www.dubizzle.com.kw/",
@@ -472,7 +472,7 @@
       "finalUrl": "https://www.dubizzle.com.kw/",
       "title": null,
       "error": "HTTP 401",
-      "checkedAt": "2026-11-09T15:55:40.560Z"
+      "checkedAt": "2026-11-16T15:31:16.499Z"
     },
     {
       "url": "https://www.expatriates.com/",
@@ -485,7 +485,7 @@
       "finalUrl": "https://www.expatriates.com/",
       "title": "Attention Required! | Cloudflare",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:41.501Z"
+      "checkedAt": "2026-11-16T15:31:17.657Z"
     },
     {
       "url": "https://kw.opensooq.com/en/real-estate",
@@ -498,7 +498,7 @@
       "finalUrl": "https://kw.opensooq.com/en/real-estate",
       "title": "Real Estate in Kuwait : Apartments : Villa : Shops and Projects : Best Prices | OpenSooq",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:41.502Z"
+      "checkedAt": "2026-11-16T15:31:17.658Z"
     },
     {
       "url": "https://www.bayut.bh/en/",
@@ -511,7 +511,7 @@
       "finalUrl": "https://www.bayut.bh/en/",
       "title": "Properties for Sale and to Rent in Bahrain | Bayut Bahrain",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:41.502Z"
+      "checkedAt": "2026-11-16T15:31:17.659Z"
     },
     {
       "url": "https://findbahrain.com/",
@@ -524,7 +524,7 @@
       "finalUrl": "https://findbahrain.com/",
       "title": "FIND BAHRAIN | Find Your Dream Property in Bahrain",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:41.503Z"
+      "checkedAt": "2026-11-16T15:31:17.660Z"
     },
     {
       "url": "https://homesbahrain.com/",
@@ -537,7 +537,7 @@
       "finalUrl": "https://homesbahrain.com/",
       "title": "Properties for Rent &amp; Sale in Bahrain | Homes Bahrain",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:42.128Z"
+      "checkedAt": "2026-11-16T15:31:22.366Z"
     },
     {
       "url": "https://www.propertyfinder.bh/",
@@ -550,7 +550,7 @@
       "finalUrl": "https://www.propertyfinder.bh/",
       "title": "Property Finder BH | Buy and Rent Real Estate in Bahrain",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:42.129Z"
+      "checkedAt": "2026-11-16T15:31:22.367Z"
     },
     {
       "url": "https://www.weetas.com/",
@@ -563,7 +563,7 @@
       "finalUrl": "https://www.weetas.com/",
       "title": "Weetas - #1 Real Estate Company in Bahrain",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:42.129Z"
+      "checkedAt": "2026-11-16T15:31:22.368Z"
     },
     {
       "url": "https://www.dubizzle.com.bh/en/",
@@ -576,7 +576,7 @@
       "finalUrl": "https://www.dubizzle.com.bh/en/",
       "title": null,
       "error": "HTTP 401",
-      "checkedAt": "2026-11-09T15:55:42.130Z"
+      "checkedAt": "2026-11-16T15:31:22.369Z"
     },
     {
       "url": "https://www.expatriates.com/",
@@ -587,9 +587,9 @@
       "ok": false,
       "status": 403,
       "finalUrl": "https://www.expatriates.com/",
-      "title": "Attention Required! | Cloudflare",
+      "title": "Just a moment...",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:42.879Z"
+      "checkedAt": "2026-11-16T15:31:23.403Z"
     },
     {
       "url": "https://bh.opensooq.com/",
@@ -602,7 +602,7 @@
       "finalUrl": "https://bh.opensooq.com/ar",
       "title": null,
       "error": null,
-      "checkedAt": "2026-11-09T15:55:42.880Z"
+      "checkedAt": "2026-11-16T15:31:23.404Z"
     },
     {
       "url": "https://www.savills.om/",
@@ -615,7 +615,7 @@
       "finalUrl": "https://www.savills.om/",
       "title": "ERROR: The request could not be satisfied",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:42.880Z"
+      "checkedAt": "2026-11-16T15:31:23.404Z"
     },
     {
       "url": "https://www.bayut.om/en/",
@@ -628,7 +628,7 @@
       "finalUrl": "https://www.bayut.om/en/",
       "title": "Properties for Sale and to Rent in Oman | Bayut.om",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:42.881Z"
+      "checkedAt": "2026-11-16T15:31:23.405Z"
     },
     {
       "url": "https://www.mawa.om/en",
@@ -641,7 +641,7 @@
       "finalUrl": "https://www.mawa.om/en",
       "title": "Leading Real Estate Platform In Oman | Real Estate | Mawa",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:43.942Z"
+      "checkedAt": "2026-11-16T15:31:25.084Z"
     },
     {
       "url": "https://omanreal.com/",
@@ -652,9 +652,9 @@
       "ok": true,
       "status": 200,
       "finalUrl": "https://omanreal.com/",
-      "title": "Home - Oman Real",
+      "title": "Real Estate in Oman — Buy, Rent &amp; Sell Property | Oman Real",
       "error": null,
-      "checkedAt": "2026-11-09T15:55:43.943Z"
+      "checkedAt": "2026-11-16T15:31:25.085Z"
     },
     {
       "url": "https://www.dubizzle.com.om/en/",
@@ -667,7 +667,7 @@
       "finalUrl": "https://www.dubizzle.com.om/en/",
       "title": null,
       "error": "HTTP 401",
-      "checkedAt": "2026-11-09T15:55:43.943Z"
+      "checkedAt": "2026-11-16T15:31:25.086Z"
     },
     {
       "url": "https://www.expatriates.com/",
@@ -678,9 +678,9 @@
       "ok": false,
       "status": 403,
       "finalUrl": "https://www.expatriates.com/",
-      "title": "Attention Required! | Cloudflare",
+      "title": "Just a moment...",
       "error": "HTTP 403",
-      "checkedAt": "2026-11-09T15:55:43.944Z"
+      "checkedAt": "2026-11-16T15:31:25.087Z"
     },
     {
       "url": "https://om.opensooq.com/",
@@ -693,58 +693,30 @@
       "finalUrl": "https://om.opensooq.com/ar",
       "title": null,
       "error": null,
-      "checkedAt": "2026-11-09T15:55:44.406Z"
+      "checkedAt": "2026-11-16T15:31:25.658Z"
     }
   ],
   "changesSinceLastRun": [
     {
-      "type": "up",
-      "url": "https://www.aldar.com/en",
-      "name": "Aldar",
-      "country": "UAE",
-      "message": "Back online (200)"
-    },
-    {
-      "type": "title",
-      "url": "https://www.aldar.com/en",
-      "name": "Aldar",
-      "country": "UAE",
-      "message": "Page title changed"
-    },
-    {
       "type": "down",
+      "url": "https://www.bhomes.com/en",
+      "name": "Betterhomes",
+      "country": "UAE",
+      "message": "HTTP 429"
+    },
+    {
+      "type": "up",
       "url": "https://rega.gov.sa/en",
       "name": "REGA",
       "country": "Saudi Arabia",
-      "message": "fetch failed"
-    },
-    {
-      "type": "down",
-      "url": "https://wasalt.sa/",
-      "name": "Wasalt",
-      "country": "Saudi Arabia",
-      "message": "HTTP 403"
-    },
-    {
-      "type": "up",
-      "url": "https://www.qatarliving.com/",
-      "name": "Qatar Living",
-      "country": "Qatar",
       "message": "Back online (200)"
     },
     {
       "type": "title",
-      "url": "https://www.qatarliving.com/",
-      "name": "Qatar Living",
-      "country": "Qatar",
-      "message": "Page title changed"
-    },
-    {
-      "type": "down",
-      "url": "https://www.savills.om/",
-      "name": "Savills Oman",
+      "url": "https://omanreal.com/",
+      "name": "Oman Real",
       "country": "Oman",
-      "message": "HTTP 403"
+      "message": "Page title changed"
     }
   ]
 }
